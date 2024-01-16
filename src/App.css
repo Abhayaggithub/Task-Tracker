@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('TaskImg.jpg'); /* Specify the path to your image */
+  background-image: url('TaskImg.jpg'); 
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Arial', sans-serif;
@@ -13,7 +13,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to make content readable */
+  background-color: rgba(255, 255, 255, 0.8); 
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
