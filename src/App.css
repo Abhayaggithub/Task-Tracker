@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(C:\Users\91896\Desktop\tasklist\task_tracker\TaskImg.jpg); /* Specify the path to your image */
+  background-image: url('TaskImg.jpg'); /* Specify the path to your image */
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Arial', sans-serif;
